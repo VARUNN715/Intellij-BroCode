@@ -18,9 +18,11 @@ public class Wrapper_class {
         // unboxing
         Boolean a = true;
         Character b = '@';
+        Character bb = '@';
         Integer c = 123;
         Double d = 3.14;
-        String e = "Varun";
+        String e = "@";
+        System.out.println(b.equals(b));
 
 
 
